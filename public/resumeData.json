@@ -62,10 +62,22 @@
     ],
     "work": [
       {
+        "company": "CreatorSphere Ltd.",
+        "title": "Infrastructure Consultant",
+        "years": "July 2021 - Present",
+        "description": "Provide insight, deploy, and design infrastructure to maintain CreatorSphere's Progressive Webapp."
+      },
+      {
         "company": "Ace Hardware Corporation",
         "title": "Warehouse Specialist",
         "years": "June 2021 - Present",
         "description": "Recieve and stock pallets of product that comes in from vendors."
+      },
+      {
+        "company": "CreatorSphere Ltd.",
+        "title": "Chief Technology Officer",
+        "years": "April 2021 - June 2021",
+        "description": "Managed a team of 15 other staff to ensure that we met deadlines to deploy our Progress Web App in 2 months!"
       },
       {
         "company": "Lowe's Home Improvement",
@@ -108,34 +120,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "CreatorSphere Ltd.",
+        "category": "A London based startup that I helped develop the internal infrastructure for.",
+        "image": "CreatorSphere.png",
+        "url": "https://creatorsphere.co"
       }
     ]
   },
