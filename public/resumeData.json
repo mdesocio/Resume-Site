@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Michael DeSocio",
+    "occupation": "Student @ SUNY University at Albany",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mdesocio28@gmail.com",
+    "phone": "518-832-9028",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.mdesocio.com",
+    "resumedownload": "http://mdesocio.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/michael.desocio.140/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/mdesocio28",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michael-desocio-bass/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mdesocio28",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mdesocio",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Basic knowledge in Python and HTML.  Current interests are in Open Source software such as PFSense, TrueNAS, and other sources.",
+    "education": [
+      {
+        "school": "SUNY University at Albany",
+        "degree": "Bachelors of Science in Informatics with a Concentration in Information Tehnology",
+        "graduated": "Expected May 2024",
+        "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
+      },
+      {
+        "school": "Queensbury High School",
+        "degree": "Grades 9-12",
+        "graduated": "June 2020",
+        "description": "Persued the most rigorous course load I could handle, while keeping my focus on music which was my passion and degree path at the time."
+      }
+    ],
+    "work": [
+      {
+        "company": "Ace Hardware Corporation",
+        "title": "Warehouse Specialist",
+        "years": "June 2021 - Present",
+        "description": "Recieve and stock pallets of product that comes in from vendors."
+      },
+      {
+        "company": "Lowe's Home Improvement",
+        "title": "Customer Service Associate/Head Cashier",
+        "years": "May 2020 - August 2021",
+        "description": "Managed Cashiers in the Front of Lowe's.  Helped customers with orders, errors, and returns."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Networking",
+        "level": "60%"
+      },
+      {
+        "name": "Cloud Infrastructure",
+        "level": "55%"
+      },
+      {
+        "name": "Network/Infrastructure Design",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "40%"
+      },
+      {
+        "name": "Microsoft Active Directory",
+        "level": "80%"
+      },
+      {
+        "name": "C# (C-Sharp)",
+        "level": "20%"
+      },
+      {
+        "name": "Linux Management",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Michael is the best employee that I have ever worked with, and I have hired hundreds of staff before, for companies big and small.",
+        "user": "Connor Grieg"
+      }
+    ]
+  }
+}
