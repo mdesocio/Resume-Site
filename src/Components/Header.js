@@ -12,7 +12,7 @@ class Header extends Component {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     }
-
+// <li><a className="smoothscroll" href="#contact">Contact</a></li> In line 30
     return (
       <header id="home">
 
@@ -27,8 +27,8 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
             <li><a href="/Files/">Assignments</a></li>
+         
          </ul>
 
       </nav>
