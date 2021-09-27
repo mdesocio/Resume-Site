@@ -1,0 +1,13 @@
+body {background-color: gray;}
+
+#container {background-color: black; padding: 2%; margin: auto; width: 80%;}
+
+#header {background-color: yellow; padding: 2%;}
+
+#center {background-color: white; height: 400px;}
+
+#footer {background-color: lightgray; padding: 2%;}
+
+#sidebar {background-color: red; width: 30%; height: 400px; float: left;}
+
+#article {background-color:green; width: 70%; height: 400px; float: right;}
