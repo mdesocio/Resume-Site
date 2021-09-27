@@ -2,8 +2,8 @@
             
 #border_container {background-color: whitesmoke; font-family: 'Lucida Sans Unicode'; text-align: center; width: 80%; height: 500px; margin: auto; margin-bottom: 10px;}
             
-#left_navigation_cell {background-color: gray; font-family: 'Trebuchet MS'; text-align: center; width: 20%; height: 300px; margin: auto;}
+#left_navigation_cell {background-color: gray; font-family: 'Trebuchet MS'; text-align: center; width: 15%; height: 300px; margin: auto;}
 
-#center_data_cell {background-color: lightskyblue; font-family: 'Trebuchet MS'; text-align: center; width: 30%; height: 300px; margin: auto;}
+#center_data_cell {background-color: lightskyblue; font-family: 'Trebuchet MS'; text-align: center; width: 40%; height: 300px; margin: auto;}
 
-#right_data_cell {background-color: lightskyblue; font-family: 'Trebuchet MS'; text-align: center; width: 30%; height: 300px; margin: auto;}
+#right_data_cell {background-color: lightskyblue; font-family: 'Trebuchet MS'; text-align: center; width: 40%; height: 300px; margin: auto;}
