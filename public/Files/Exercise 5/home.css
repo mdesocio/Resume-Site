@@ -10,4 +10,4 @@ body {background-color: gray;}
 
 #sidebar {background-color: red; width: 30%; height: 400px; float: left;}
 
-#article {background-color: green; width: 70%; height: 400px; float: right;}
+#article {background-color:green; width: 70%; height: 400px; float: right;}
