@@ -1,5 +1,5 @@
-#title {background-color: lightgrey; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';}
+#title {background-color: lightgrey; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans'; text-align: center;}
             
-#border_container {background-color: whitesmoke; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';}
+#border_container {background-color: whitesmoke; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans'; text-align: center;}
             
-#left_navigation_cell {background-color: lightslategray; font-family: Helvetica;}
+#left_navigation_cell {background-color: lightslategray; font-family: Helvetica; text-align: center;}
