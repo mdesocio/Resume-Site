@@ -1,5 +1,7 @@
 body {background-color: lightgrey; font-family: 'Trebuchet MS'; text-align: center;}
-            
+
+img {align-items: center; width: 20%;}
+
 #border {background-color: whitesmoke; font-family: 'Lucida Sans Unicode'; text-align: center; width: 80%; height: 500px; margin: auto; padding: 3%;}
             
 #links {background-color: gray; font-family: 'Trebuchet MS'; text-align: center; width: 20%; height: 300px; float: left;}
