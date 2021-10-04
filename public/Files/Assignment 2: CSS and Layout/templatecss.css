@@ -18,22 +18,22 @@ h2 {text-align: center;}
 
 /* unvisited link */
 a:link {
-    color: #0000FF;
+    color: white;
   }
   
   /* visited link */
   a:visited {
-    color: #000000;
+    color: black;
   }
   
   /* mouse over link */
   a:hover {
-    color: #525cf3;
+    color: lightgray;
   }
   
   /* selected link */
   a:active {
-    color: #0000FF;
+    color: slategray;
   }
 
 #experience {text-align: left; font-family: 'Trebuchet MS';}
