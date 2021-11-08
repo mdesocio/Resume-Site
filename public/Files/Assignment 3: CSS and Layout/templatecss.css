@@ -1,0 +1,77 @@
+body {background-color: lightgrey; font-family: 'Trebuchet MS'; text-align: center;}
+
+img {align-items: center; width: 20%;}
+
+p {line-height: 1.5; color: white; font-size: 15px}
+
+#border {background-color: whitesmoke; font-family: 'Lucida Sans Unicode'; text-align: center; width: 90%; height: 600px; margin: auto; padding: 2%;}
+            
+#links {background-color: rgb(134, 163, 255); font-family: 'Trebuchet MS'; text-align: center; width: 18%; height: 500px; float: left; padding: 1%;}
+
+#center {background-color: rgb(80, 91, 102); font-family: 'Trebuchet MS'; text-align: center; width: 38%; height: 500px; float: left; padding: 1%; color: white}
+
+h2 {text-align: center;}
+
+#right {background-color: rgb(80, 91, 102); font-family: 'Trebuchet MS'; text-align: center; width: 38%; height: 500px; float: right; padding: 1%; color: white;}
+
+#footer {background-color: lightgray; padding: 3%;}
+
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: lightgray;
+  }
+  
+  /* selected link */
+  a:active {
+    color: slategray;
+  }
+
+#experience {text-align: left; font-family: 'Trebuchet MS';}
+
+@media only screen and (max-width: 575px) {
+  #border {
+      width:90%;
+      float:none;
+      margin: auto;
+      height:100%;
+      }
+  #links {
+      width:90%;
+      float:none;
+      margin: auto;
+      height:30%;
+      font-size: x-small;
+      }
+  #center {
+      width:90%;
+      float:none;
+      margin: auto;
+      height:30%;
+      font-size: x-small;
+  }
+  #right{
+    width:90%;
+      float:none;
+      margin: auto;
+      height:25%;
+      font-size: x-small;
+  }
+  #footer {
+      width:98%;
+      padding: 1%;
+      float:none;
+      margin: auto;
+      height:10%;
+      font-size: x-small;
+  }
+}
