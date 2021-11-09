@@ -10,24 +10,12 @@
         <button onclick='JSstyle()'>
         Change Style
         </button>
-        <script>
-            function JSstyle(){
-                document.getElementById('text').style.color='red';
-                document.getElementById('text').style.fontSize='x-large';
-            }
-        </script>
         <br>
         <br>
         <a id='ualbany' href='https://albany.edu' target="_blank">Go to the University Website</a>
         <br>
         <br>
         <button onclick='getlink()'>Get the link.</button>
-        <script>
-            function getlink(){
-                var x= document.getElementById('ualbany').href;
-                alert("Here is the link: " + x);
-            }
-        </script>
         <br>
         <br>
         Enter your first name: <input id='first-name' type='text'>
@@ -39,6 +27,14 @@
         <br>
         <p id='result'></p>
         <script>
+            function JSstyle(){
+                document.getElementById('text').style.color='red';
+                document.getElementById('text').style.fontSize='x-large';
+            }
+            function getlink(){
+                var x= document.getElementById('ualbany').href;
+                alert("Here is the link: " + x);
+            }
             function sayhello(){
                 var x=document.getElementById('first-name').value;
                 var y=document.getElementById('last-name').value;
