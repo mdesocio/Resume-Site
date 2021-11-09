@@ -2,7 +2,7 @@ body {background-color: lightgrey; font-family: 'Trebuchet MS'; text-align: cent
 
 img {align-items: center; width: 20%;}
 
-p {line-height: 1.5; color: white; font-size: 15px}
+p, ul, li {line-height: 1.5; color: white; font-size: 15px}
 
 #border {background-color: whitesmoke; font-family: 'Lucida Sans Unicode'; text-align: center; width: 90%; height: 600px; margin: auto; padding: 2%;}
             
