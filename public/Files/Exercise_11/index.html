@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Exercise 11 - JS Conditionals
+        </title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        Enter a number: <input type="number" id='num1'>
+        <br>
+        Enter another number: <input type="number" id='num2'>
+        <br>
+        Enter a 3rd number: <input type="number" id='num3'>
+        <br>
+        <button onclick='MaxVal()'>submit</button>
+        <script>
+            function MaxVal() {
+                var x = document.getElementById("num1").value
+                var y = document.getElementById("num2").value
+                var z = document.getElementById("num3").value
+
+                if((x>y) && (x>z)) {
+                    document.write("Number 1, "+x+" is the Max.")
+                }
+                else if ((y>x) && (y>z)) {
+                    document.write("Number 2, "+y+" is the Max.")
+                }
+                else if ((z>y)&&(z>x)) {
+                    document.write("Number 3, "+z+" is the Max.")
+                }
+                else {
+                    document.write("They are all equal.")
+                }
+            }
+        </script>
+    </body>
+</html>
