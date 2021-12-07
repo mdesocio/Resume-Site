@@ -49,7 +49,8 @@ function MileKilo() {
 
 };
 function time() {
-    var x = getHours();
+    const d= new Date();
+    var x = d.getHours();
 
     if (x>=0 && x<12){
         document.getElementById('message').innerHTML="Good Morning"
