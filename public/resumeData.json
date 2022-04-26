@@ -8,6 +8,7 @@
     "contactmessage": "Fill this out to get in touch with me!",
     "email": "mdesocio28@gmail.com",
     "phone": "518-796-0672",
+
     "address": {
       "street": "(Your Street)",
       "city": "(Your City)",
@@ -50,14 +51,14 @@
       {
         "school": "SUNY University at Albany",
         "degree": "Bachelors of Science in Informatics with a Concentration in Information Technology",
-        "graduated": "Expected May 2024",
-        "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
+        "graduated": "Expected May 2023",
+        "description": "Currently on a path in my education so I can be a project manager that concentrates on sensitive data and highly secure infrastructure."
       },
       {
         "school": "Queensbury High School",
         "degree": "Grades 9-12",
         "graduated": "June 2020",
-        "description": "Persued the most rigorous course load I could handle, while keeping my focus on music which was my passion and degree path at the time."
+        "description": "Persued the most rigorous course load, while keeping my focus on music which was my passion and degree path at the time."
       }
     ],
     "work": [
@@ -89,27 +90,23 @@
     "skills": [
       {
         "name": "Networking",
-        "level": "60%"
-      },
-      {
-        "name": "Cloud Infrastructure",
         "level": "55%"
       },
       {
-        "name": "Network/Infrastructure Design",
-        "level": "65%"
+        "name": "Cloud Infrastructure",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "Infrastructure Design",
+        "level": "75%"
+      },
+      {
+        "name": "Bug Hunting",
         "level": "40%"
       },
       {
-        "name": "Microsoft Active Directory",
+        "name": "Network Security Implementation",
         "level": "80%"
-      },
-      {
-        "name": "C# (C-Sharp)",
-        "level": "20%"
       },
       {
         "name": "Linux Management",
@@ -123,7 +120,13 @@
         "title": "CreatorSphere Ltd.",
         "category": "A London based startup that I helped develop the internal infrastructure for.",
         "image": "CreatorSphere.png",
-        "url": "https://creatorsphere.co"
+        "url": "https://web.archive.org/web/20220202223446/https://creatorsphere.co/"
+      },
+      {
+        "title": "VPN Tunneling",
+        "category": "Deploying VPNs for users to tunnel for Secured Central Management of Network Services",
+        "image": "CreatorSphere.png",
+        "url": "https://wiki.mdesocio.com"
       }
     ]
   },
