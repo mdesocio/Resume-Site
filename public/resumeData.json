@@ -19,11 +19,6 @@
     "resumedownload": "Resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/michael.desocio.140/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
         "url": "http://twitter.com/mdesocio28",
         "className": "fa fa-twitter"
@@ -32,11 +27,6 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/michael-desocio-bass/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/mdesocio28",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
