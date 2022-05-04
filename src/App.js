@@ -49,13 +49,12 @@ class App extends Component {
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Testimonials data={this.state.resumeData.testimonials}/>
+        <Portfolio data={this.state.resumeData.portfolio}/>  
         <Footer data={this.state.resumeData.main}/>
       </div>
     );
   }
 }
-//        <Contact data={this.state.resumeData.main}/>
+//        <Contact data={this.state.resumeData.main}/><Testimonials data={this.state.resumeData.testimonials}/>
 
 export default App;
