@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
-    var date = document.write(new Date().getFullYear())
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -11,7 +10,7 @@ class Footer extends Component {
 
     return (
       <footer>
-
+     <script>var date = document.write(new Date().getFullYear())</script>
      <div className="row">
         <div className="twelve columns">
            <ul className="social-links">
