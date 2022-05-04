@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Michael DeSocio</li>
+              <li>&copy; Copyright <script>document.write(new Date().getFullYear())</script> Michael DeSocio. All Rights Reserved.</li>
            </ul>
 
         </div>
