@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
-
+    var date = document.write(new Date().getFullYear())
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright <script>document.write(new Date().getFullYear())</script> Michael DeSocio. All Rights Reserved.</li>
+              <li>&copy; Copyright {date} Michael DeSocio. All Rights Reserved.</li>
            </ul>
 
         </div>
