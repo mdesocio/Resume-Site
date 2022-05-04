@@ -10,7 +10,6 @@ class Footer extends Component {
 
     return (
       <footer>
-     <script>var date = document.write(new Date().getFullYear())</script>
      <div className="row">
         <div className="twelve columns">
            <ul className="social-links">
@@ -18,7 +17,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright {date} Michael DeSocio. All Rights Reserved.</li>
+              <li>&copy; Copyright 2022 Michael DeSocio. All Rights Reserved.</li>
            </ul>
 
         </div>
