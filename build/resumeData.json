@@ -14,17 +14,12 @@
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.mdesocio.com",
+    "website": "https://www.mdesocio.com",
     "resumedownload": "Resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/michael.desocio.140/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
-        "url": "http://twitter.com/mdesocio28",
+        "url": "https://twitter.com/mdesocio28",
         "className": "fa fa-twitter"
       },
       {
@@ -33,14 +28,14 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/mdesocio28",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/mdesocio",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/mdesocio",
-        "className": "fa fa-github"
+        "name": "email",
+        "url": "mailto:mike@desocios.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
@@ -52,38 +47,26 @@
         "degree": "Bachelors of Science in Informatics with a Concentration in Information Technology",
         "graduated": "Expected May 2024",
         "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
-      },
-      {
-        "school": "Queensbury High School",
-        "degree": "Grades 9-12",
-        "graduated": "June 2020",
-        "description": "Persued the most rigorous course load I could handle, while keeping my focus on music which was my passion and degree path at the time."
       }
     ],
     "work": [
       {
+        "company": "Queensbury Union Free School District",
+        "title": "Summer IT Intern",
+        "years": "July 2022 - August 2022",
+        "description": "Work on deploying 1,000 computers to students and staff, Worked with Network Operations to deploy a more secure and isolated Wireless Network for IoT devices, Redesigned and organized the datacenter and sub-IDF closets."
+      },
+      {
         "company": "CreatorSphere Ltd.",
         "title": "Infrastructure Consultant",
-        "years": "July 2021 - Present",
+        "years": "July 2021 - March 2022",
         "description": "Provide insight, deploy, and design infrastructure to maintain CreatorSphere's Progressive Webapp."
       },
       {
-        "company": "Ace Hardware Corporation",
-        "title": "Warehouse Specialist",
-        "years": "June 2021 - Present",
-        "description": "Recieve and stock pallets of product that comes in from vendors."
-      },
-      {
         "company": "CreatorSphere Ltd.",
-        "title": "Chief Technology Officer",
+        "title": "Systems Administrator",
         "years": "April 2021 - June 2021",
-        "description": "Managed a team of 15 other staff to ensure that we met deadlines to deploy our Progress Web App in 2 months!"
-      },
-      {
-        "company": "Lowe's Home Improvement",
-        "title": "Customer Service Associate/Head Cashier",
-        "years": "May 2020 - August 2021",
-        "description": "Managed Cashiers in the Front of Lowe's.  Helped customers with orders, errors, and returns."
+        "description": "Worked with a team of 15 other staff to ensure that we met deadlines to deploy our Progress Web App in 2 months!"
       }
     ],
     "skills": [
