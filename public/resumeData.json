@@ -111,9 +111,21 @@
       {
         "title": "CreatorSphere Ltd.",
         "category": "A London based startup that I helped develop the internal infrastructure for.",
-        "image": "creatorsphere.png",
-        "url": "https://creatorsphere.co"
+        "image": "CreatorSphere.png",
+        "url": "https://web.archive.org/web/20220202223446/https://creatorsphere.co/"
+      },
+      {
+        "title": "Personal Wiki",
+        "category": "Personal Homelab Documentation and Presentation Area!",
+        "image": "Wiki.png",
+        "url": "https://wiki.mdesocio.com"
+      },
+      {
+        "title": "UAlbany Cyber Defense Organization",
+        "category": "On campus club I am apart of! Work as Server Committee Lead to build competition architecture.",
+        "image": "CDO.png",
+        "url": "https://uacyber.org"
       }
     ]
-  }
+  },
 }
