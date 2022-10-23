@@ -67,6 +67,12 @@
         "title": "Systems Administrator",
         "years": "April 2021 - June 2021",
         "description": "Worked with a team of 15 other staff to ensure that we met deadlines to deploy our Progress Web App in 2 months!"
+      },
+      {
+        "company": "Various Local Organizations",
+        "title": "Managed Services",
+        "years": "October 2018 - Present",
+        "description": "Work with non-profits to find afordable ways to increase network and systems security while maintaining a budget friendly deployment of needed services."
       }
     ],
     "skills": [
@@ -80,22 +86,22 @@
       },
       {
         "name": "Network/Infrastructure Design",
-        "level": "65%"
+        "level": "75%"
       },
       {
-        "name": "HTML5",
-        "level": "40%"
+        "name": "Project Management",
+        "level": "85%"
       },
       {
         "name": "Microsoft Active Directory",
-        "level": "80%"
+        "level": "60%"
       },
       {
-        "name": "C# (C-Sharp)",
-        "level": "20%"
+        "name": "Virtual Infrastructure",
+        "level": "90%"
       },
       {
-        "name": "Linux Management",
+        "name": "Unix Systems Management",
         "level": "80%"
       }
     ]
@@ -107,14 +113,6 @@
         "category": "A London based startup that I helped develop the internal infrastructure for.",
         "image": "creatorsphere.png",
         "url": "https://creatorsphere.co"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Michael is the best employee that I have ever worked with, and I have hired hundreds of staff before, for companies big and small.",
-        "user": "Connor Grieg, CEO of CreatorSphere Ltd."
       }
     ]
   }
