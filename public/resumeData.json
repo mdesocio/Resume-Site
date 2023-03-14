@@ -45,11 +45,17 @@
       {
         "school": "SUNY University at Albany",
         "degree": "Bachelors of Science in Informatics with a Concentration in Information Technology",
-        "graduated": "Expected May 2024",
+        "graduated": "Expected December 2023",
         "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
       }
     ],
     "work": [
+      {
+        "company": "New York State Department of Information Technology Services",
+        "title": "Student Assistant - CISO",
+        "years": "March 2023 - Present",
+        "description": "Develop and research incoming requests and incidents that impact the ITS Deparment. Utilize intelligence from within the organization to perform audits and develop plans of attack on improving and replacing infrastructure."
+      },
       {
         "company": "Queensbury Union Free School District",
         "title": "Summer IT Intern",
