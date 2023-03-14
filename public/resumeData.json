@@ -84,31 +84,31 @@
     "skills": [
       {
         "name": "Networking",
-        "level": "60%"
-      },
-      {
-        "name": "Cloud Infrastructure",
-        "level": "55%"
-      },
-      {
-        "name": "Network/Infrastructure Design",
         "level": "75%"
       },
       {
-        "name": "Project Management",
+        "name": "Cloud Infrastructure",
+        "level": "65%"
+      },
+      {
+        "name": "Network/Infrastructure Design",
         "level": "85%"
       },
       {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
         "name": "Microsoft Active Directory",
-        "level": "60%"
+        "level": "50%"
       },
       {
         "name": "Virtual Infrastructure",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Unix Systems Management",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
