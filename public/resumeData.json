@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Michael DeSocio",
-    "occupation": "Student @ SUNY University at Albany",
-    "description": "Welcome to my portfolio!  I am a junior at SUNY University at Albany studying Informatics.  Prior to my endeavours in the field of technology, I was a Music Education major at Ithaca College, however, due to the change in job markets with COVID-19, I thought it was best if I were to pursue a degree in Information Technology!  In my off time, you will often find me playing my Double Bass with the Skidmore College Community Orchestra and the SUNY Albany Univerity/Community Orchestra.  When I get some down time, I love to build furniture (particularly cabinets and tables) in my grandfather's workshop, or with my dad at his workshop.  Please browse through my page and drop me an email if you see something you like!",
+    "occupation": "NYS ITS Student Assistant",
+    "description": "Michael DeSocio is a Senior at the University at Albany, SUNY, obtaining a B.S. in Cybersecurity from the College of Emergency Preparedness, Homeland Security, and Cybersecurity and a B.S. in Digital Forensics from the Massry Center for Business and Business Acolades.",
     "image": "profilepic.jpg",
-    "bio": "During my early years of grade school, I could remember times where I would come home, and just tinker with whatever was on my dad’s workbench at the time.  An old computer that was being updated and replaced. A network switch with a bad fan in place.  Regardless of what it was, I thought it was cool!  Of course, when you’re 4 or 5 you don’t ever know what these do other than you can play games on the old CRT monitor, “…but don’t touch daddy’s computer!” Progressively through my middle and high school careers, I began exploring what these technologies could do.  It really started when my dad gave me my first NAS around age 13.  This was the steppingstone that allowed me to design my rack.  I saved for years, then depleted part of my savings so I could buy a bass for music school, but after I threw in the towel on a B.A. in Music Education at my dream school at the time, I knew I had a lot of learning to do to make sure I was on top of my game.  Sure, you don’t need this equipment to start a degree in Information Technology, but if you want to expand your knowledge past a textbook and into a more real-world environment, this is pretty much one of two options: Cloud or on premises.  Of course, hybrid is also an option too. For me, data flow and network design is my passion.  Figuring out how the network will be segregated, how the backbones will link back to the core switch or router, L2 or L3 switching and where each is necessary, and many other pieces that I don’t know yet are what excite me.  As the requirements for increased speed and lower latency keep coming back, I see a small timeline before 25Gb/s and even 50Gb/s is a must for most homes and small businesses, as every service will be cloud based or decentralized on a blockchain across the world!",
+    "bio": "Michael DeSocio grew up just outside the Capital Region of New York.  Michael grew up around technology and has always tried to surround himself with konwledge and people that can help him expand on what he has learned. While attending SUNY Albany, Michael participates in the Cyber Defense Organization; a student run organization, focused on building technical knowledge in the fields of information technology and cybersecurity.  Michael has been heavily invested in expanding his knowledge and working with new technologies. In his free time, Michael enjoys expanding his knowledge utilizing his home lab and cloud providers along with, woodworking, and staying involved in his high school’s music program.",
     "contactmessage": "Fill this out to get in touch with me!",
     "email": "mike@desocios.com",
     "phone": "518-832-9028",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/michael-desocio-bass/",
+        "url": "https://www.linkedin.com/in/michael-desocio/",
         "className": "fa fa-linkedin"
       },
       {
@@ -44,8 +44,8 @@
     "education": [
       {
         "school": "SUNY University at Albany",
-        "degree": "Bachelors of Science in Informatics with a Concentration in Information Technology",
-        "graduated": "Expected December 2023",
+        "degree": "Bachelors of Science in Cybersecurity and Bachelors of Science in Digital Forensics",
+        "graduated": "Expected May 2024",
         "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
       }
     ],
