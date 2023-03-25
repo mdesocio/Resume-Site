@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
-
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -11,7 +10,6 @@ class Footer extends Component {
 
     return (
       <footer>
-
      <div className="row">
         <div className="twelve columns">
            <ul className="social-links">
@@ -19,7 +17,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Michael DeSocio</li>
+              <li>&copy; Copyright 2022 Michael DeSocio. All Rights Reserved.</li>
            </ul>
 
         </div>
