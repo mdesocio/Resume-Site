@@ -2,7 +2,7 @@
   "main": {
     "name": "Michael DeSocio",
     "occupation": "NYS ITS Student Assistant",
-    "description": "Michael DeSocio is a Senior at the University at Albany, SUNY, obtaining a B.S. in Cybersecurity from the College of Emergency Preparedness, Homeland Security, and Cybersecurity and a B.S. in Digital Forensics from the Massry Center for Business and Business Acolades.",
+    "description": "Michael DeSocio is a Senior at the University at Albany, SUNY, obtaining a B.S. in Cybersecurity from the College of Emergency Preparedness, Homeland Security, and Cybersecurity.",
     "image": "profilepic.jpg",
     "bio": "Michael DeSocio grew up just outside the Capital Region of New York.  Michael grew up around technology and has always tried to surround himself with knowledge and people that can help him expand on what he has learned. While attending SUNY Albany, Michael participates in the Cyber Defense Organization; a student run organization, focused on building technical knowledge in the fields of information technology and cybersecurity.  Michael has been heavily invested in expanding his knowledge and working with new technologies. In his free time, Michael enjoys expanding his knowledge utilizing his home lab and cloud providers along with, woodworking, and staying involved in his high school’s music program.",
     "contactmessage": "Fill this out to get in touch with me!",
@@ -44,8 +44,8 @@
     "education": [
       {
         "school": "SUNY University at Albany",
-        "degree": "Bachelors of Science in Cybersecurity and Bachelors of Science in Digital Forensics",
-        "graduated": "Expected May 2024",
+        "degree": "Bachelors of Science in Cybersecurity",
+        "graduated": "Expected December 2023",
         "description": "Currently on a path in my education so I can be a project manager that concentrates on heavily sensitive data and highly secure infrastructure."
       }
     ],
