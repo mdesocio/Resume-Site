@@ -52,8 +52,14 @@
     "work": [
       {
         "company": "New York State Department of Information Technology Services",
+        "title": "Information Technology Specialist II - Information Security",
+        "years": "July 2023 - Present",
+        "description": "Develop and research incoming requests and incidents that impact the ITS Deparment. Utilize intelligence from within the organization to perform audits and develop plans of attack on improving and replacing infrastructure."
+      },
+      {
+        "company": "New York State Department of Information Technology Services",
         "title": "Student Assistant - CISO",
-        "years": "March 2023 - Present",
+        "years": "March 2023 - July 2023",
         "description": "Develop and research incoming requests and incidents that impact the ITS Deparment. Utilize intelligence from within the organization to perform audits and develop plans of attack on improving and replacing infrastructure."
       },
       {
